@@ -1,4 +1,4 @@
-class Dog(fido, snoopy, lassie)
+class Dog
   @fido 
   @snoopy 
   @lassie
