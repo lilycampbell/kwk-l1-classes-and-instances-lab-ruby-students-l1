@@ -1,19 +1,9 @@
 class Dog
-  @fido 
-  @snoopy 
-  @lassie
+  def initialize(name)
+    @name = name 
+  end
+end
+ fido = Dog.new("fido")
  
 
- def fido
-  @fido = fido
- end
-
- def snoopy
-  snoopy
- end
-
-def lassie
-  lassie 
- end
-end
-
+ 
