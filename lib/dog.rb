@@ -5,7 +5,7 @@ class Dog
  
 
  def fido
-  fido 
+  @fido = fido
  end
 
  def snoopy
