@@ -13,7 +13,7 @@ class Dog(fido, snoopy, lassie)
  end
 
 def lassie
-   @lassie = lassie 
+   lassie 
  end
 end
 
