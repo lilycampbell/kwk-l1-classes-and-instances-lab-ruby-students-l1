@@ -5,11 +5,11 @@ class Dog(fido, snoopy, lassie)
  
 
  def fido
-   @fido = fido
+   fido 
  end
 
  def snoopy
-   @snoopy = snoopy
+    snoopy
  end
 
 def lassie
