@@ -13,5 +13,6 @@ def snoopy
 end
 
 def lassie
-  @lassie
+  @lassie = lassie 
 end
+
